@@ -22,7 +22,7 @@
 
 	<!-- mybatis mapper auto scanning -->
 	<bean class="org.mybatis.spring.mapper.MapperScannerConfigurer">
-		<property name="basePackage" value="com.daelim.wcrm" />
+		<property name="basePackage" value="com.spring4example" />
 	</bean>
 
 	<!-- session -->
